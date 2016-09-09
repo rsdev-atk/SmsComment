@@ -43,13 +43,7 @@
 
         <Button
             android:id="@+id/btn_auth"
-            android:text="Авторизоваться"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
-
-        <Button
-            android:id="@+id/btn_exit"
-            android:text="Отмена"
+            android:text="Войти"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 

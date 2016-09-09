@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private void showAuthActivity() {
         Intent intent = new Intent(this, AuthActivity.class);
         startActivity(intent);
+
+
     }
 }
